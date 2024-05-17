@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Events\\EventsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|d:\\c#\\events\\eventsdemo\\bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\hdfcbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|d:\\c#\\events\\eventsdemo\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|d:\\c#\\events\\eventsdemo\\bankingapp\\accountlistnercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accountlistnercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|d:\\c#\\events\\eventsdemo\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B1B82E-EDD9-44E4-9465-DF5DF582D8F0}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HDFCBank.cs",
+              "DocumentMoniker": "D:\\C#\\Events\\EventsDemo\\BankingApp\\HDFCBank.cs",
+              "RelativeDocumentMoniker": "BankingApp\\HDFCBank.cs",
+              "ToolTip": "D:\\C#\\Events\\EventsDemo\\BankingApp\\HDFCBank.cs",
+              "RelativeToolTip": "BankingApp\\HDFCBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:46:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountListnercs.cs",
+              "DocumentMoniker": "D:\\C#\\Events\\EventsDemo\\BankingApp\\AccountListnercs.cs",
+              "RelativeDocumentMoniker": "BankingApp\\AccountListnercs.cs",
+              "ToolTip": "D:\\C#\\Events\\EventsDemo\\BankingApp\\AccountListnercs.cs",
+              "RelativeToolTip": "BankingApp\\AccountListnercs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:41:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\Events\\EventsDemo\\BankingApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
+              "ToolTip": "D:\\C#\\Events\\EventsDemo\\BankingApp\\Account.cs",
+              "RelativeToolTip": "BankingApp\\Account.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:15:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Events\\EventsDemo\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "D:\\C#\\Events\\EventsDemo\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:14:37.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
