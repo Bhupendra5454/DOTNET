@@ -1,0 +1,15 @@
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\bin\Debug\net8.0\BankingApp.exe
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\bin\Debug\net8.0\BankingApp.dll
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.sourcelink.json
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.dll
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+D:\C#\DOTNET\DOTNET\Delegates\DelegatesDemo\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll

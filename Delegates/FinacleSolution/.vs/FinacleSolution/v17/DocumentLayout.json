@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingdelegationapp\\bankinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\bankinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingdelegationapp\\mathengineprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\mathengineprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingdelegationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8726063D-83B3-4F8B-B6D5-2A7F36530F93}|BankingApp\\BankingApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8726063D-83B3-4F8B-B6D5-2A7F36530F93}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingdelegationapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\accountlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8726063D-83B3-4F8B-B6D5-2A7F36530F93}|BankingApp\\BankingApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8726063D-83B3-4F8B-B6D5-2A7F36530F93}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|d:\\c#\\dotnet\\dotnet\\delegates\\finaclesolution\\bankingdelegationapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC953BE2-911A-4ED7-B7C3-C5101E9FA607}|BankingDelegationApp\\BankingDelegationApp.csproj|solutionrelative:bankingdelegationapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:19:58.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingApp\\Account.cs",
+              "RelativeToolTip": "BankingApp\\Account.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:19:58.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathEngineProcessor.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\MathEngineProcessor.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\MathEngineProcessor.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\MathEngineProcessor.cs",
+              "RelativeToolTip": "BankingDelegationApp\\MathEngineProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:18:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\Program.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\Program.cs",
+              "RelativeToolTip": "BankingDelegationApp\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:14:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingHandler.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\BankingHandler.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\BankingHandler.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\BankingHandler.cs",
+              "RelativeToolTip": "BankingDelegationApp\\BankingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:14:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountListener.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\AccountListener.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\AccountListener.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\AccountListener.cs",
+              "RelativeToolTip": "BankingDelegationApp\\AccountListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:14:08.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingDelegationApp\\Account.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\Delegates\\FinacleSolution\\BankingDelegationApp\\Account.cs",
+              "RelativeToolTip": "BankingDelegationApp\\Account.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:14:01.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

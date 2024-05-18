@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BankingDelegationApp/1.0.0": {
+        "runtime": {
+          "BankingDelegationApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankingDelegationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

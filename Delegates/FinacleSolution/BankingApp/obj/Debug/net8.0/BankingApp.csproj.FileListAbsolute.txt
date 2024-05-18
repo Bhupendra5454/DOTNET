@@ -1,0 +1,14 @@
+D:\Ravi\FinacleSolution\BankingApp\bin\Debug\net8.0\BankingApp.exe
+D:\Ravi\FinacleSolution\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+D:\Ravi\FinacleSolution\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+D:\Ravi\FinacleSolution\BankingApp\bin\Debug\net8.0\BankingApp.dll
+D:\Ravi\FinacleSolution\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.dll
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+D:\Ravi\FinacleSolution\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
