@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|solutionrelative:autormanagementsystem\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AutorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AutorManagementSystem.csproj|solutionrelative:autormanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|solutionrelative:autormanagementsystem\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|solutionrelative:autormanagementsystem\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|solutionrelative:autormanagementsystem\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|d:\\c#\\dotnet\\dotnet\\entityframework\\authorentityframework\\autormanagementsystem\\authorcontext\\authorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5A0DAF-22EE-44EC-93E9-F4216C22E353}|AutorManagementSystem\\AuthorManagementSystem.csproj|solutionrelative:autormanagementsystem\\authorcontext\\authorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "AutorManagementSystem\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:02:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorContext.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorContext\\AuthorContext.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\AuthorContext\\AuthorContext.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorContext\\AuthorContext.cs",
+              "RelativeToolTip": "AutorManagementSystem\\AuthorContext\\AuthorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\Entities\\Post.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Post.cs",
+              "RelativeToolTip": "AutorManagementSystem\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:51:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\Entities\\Blog.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Blog.cs",
+              "RelativeToolTip": "AutorManagementSystem\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:48:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\Entities\\Author.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Entities\\Author.cs",
+              "RelativeToolTip": "AutorManagementSystem\\Entities\\Author.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:47:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AutorManagementSystem\\Program.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\Program.cs",
+              "RelativeToolTip": "AutorManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:34:17.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

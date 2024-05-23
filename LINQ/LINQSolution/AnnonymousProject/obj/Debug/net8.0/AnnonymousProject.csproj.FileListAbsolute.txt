@@ -1,0 +1,14 @@
+D:\Ravi\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.exe
+D:\Ravi\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.deps.json
+D:\Ravi\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.runtimeconfig.json
+D:\Ravi\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.dll
+D:\Ravi\LINQSolution\AnnonymousProject\bin\Debug\net8.0\AnnonymousProject.pdb
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.AssemblyInfoInputs.cache
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.AssemblyInfo.cs
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.csproj.CoreCompileInputs.cache
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.dll
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\refint\AnnonymousProject.dll
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.pdb
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\AnnonymousProject.genruntimeconfig.cache
+D:\Ravi\LINQSolution\AnnonymousProject\obj\Debug\net8.0\ref\AnnonymousProject.dll

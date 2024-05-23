@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\bankworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\bankworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|d:\\c#\\dotnet\\dotnet\\linq\\linqsolution\\annonymousproject\\transflowerdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FFFAC1-B65B-4594-8F29-9276214A115D}|AnnonymousProject\\AnnonymousProject.csproj|solutionrelative:annonymousproject\\transflowerdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransflowerDelegates.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\TransflowerDelegates.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\TransflowerDelegates.cs",
+              "RelativeToolTip": "AnnonymousProject\\TransflowerDelegates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:57.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\SavingAccount.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\SavingAccount.cs",
+              "RelativeToolTip": "AnnonymousProject\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Program.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\Program.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Program.cs",
+              "RelativeToolTip": "AnnonymousProject\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:55.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Person.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\Person.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Person.cs",
+              "RelativeToolTip": "AnnonymousProject\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:54.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankWorker.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\BankWorker.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\BankWorker.cs",
+              "RelativeToolTip": "AnnonymousProject\\BankWorker.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:53.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Account.cs",
+              "RelativeDocumentMoniker": "AnnonymousProject\\Account.cs",
+              "ToolTip": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\Account.cs",
+              "RelativeToolTip": "AnnonymousProject\\Account.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:51.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
