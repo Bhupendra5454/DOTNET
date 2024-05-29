@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\posts\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\posts\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\posts\\jaipur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\posts\\jaipur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogs\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogs\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogs\\jaipur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogs\\jaipur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogger\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogger\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogger\\posts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogger\\posts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogger\\blogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogger\\blogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\controllers\\bloggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\controllers\\bloggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\bloggermvcapp\\bloggerapp\\views\\blogger\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09EDE10-566C-4EA4-8EBD-59F3CE3F98F8}|BloggerApp\\BloggerApp.csproj|solutionrelative:bloggerapp\\views\\blogger\\jodhpur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:04:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jodhpur.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Posts\\Jodhpur.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Posts\\Jodhpur.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Posts\\Jodhpur.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Posts\\Jodhpur.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAA2wEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:59:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jodhpur.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogs\\Jodhpur.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogs\\Jodhpur.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogs\\Jodhpur.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogs\\Jodhpur.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:55:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jaipur.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Posts\\Jaipur.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Posts\\Jaipur.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Posts\\Jaipur.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Posts\\Jaipur.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:49:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jaipur.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogs\\Jaipur.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogs\\Jaipur.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogs\\Jaipur.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogs\\Jaipur.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:48:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BloggerApp\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BloggerApp\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:47:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BloggerApp\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BloggerApp\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:46:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jodhpur.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Jodhpur.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogger\\Jodhpur.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Jodhpur.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Jodhpur.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:39:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Posts.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Posts.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogger\\Posts.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Posts.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Posts.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:12:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blogs.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Blogs.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogger\\Blogs.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Blogs.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Blogs.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:08:54.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Details.cshtml",
+              "RelativeDocumentMoniker": "BloggerApp\\Views\\Blogger\\Details.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Views\\Blogger\\Details.cshtml",
+              "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:03:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BloggerController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\BloggerController.cs",
+              "RelativeDocumentMoniker": "BloggerApp\\Controllers\\BloggerController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\BloggerMVCApp\\BloggerApp\\Controllers\\BloggerController.cs",
+              "RelativeToolTip": "BloggerApp\\Controllers\\BloggerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:00:27.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

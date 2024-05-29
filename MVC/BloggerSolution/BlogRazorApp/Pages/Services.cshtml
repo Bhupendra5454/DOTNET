@@ -1,0 +1,27 @@
+﻿@page
+@model BlogRazorApp.Pages.ServicesModel
+@{
+}
+
+<h1>Services Provided by  Transflower</h1>
+<hr/>
+<ol>
+    <li>FullStack Skill Development Program</li>
+    <li>Online DevCamps</li>
+    <li>Online Dev Workshop</li>
+</ol>
+
+<lable>Likes</lable>: <p id="likes">5699</p>
+<button onclick="onLikesClick()">Like</button>
+<script>
+
+    //Javascript
+    var likeCount = 5600;
+    function onLikesClick() {
+
+        //DOM Programming
+        var pLikes = document.getElementById("likes");
+        likeCount++;
+        pLikes.innerHTML = likeCount;
+    }
+</script>
