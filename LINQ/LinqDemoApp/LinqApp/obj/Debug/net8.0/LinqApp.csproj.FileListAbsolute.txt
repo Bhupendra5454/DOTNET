@@ -1,0 +1,15 @@
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\bin\Debug\net8.0\LinqApp.exe
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\bin\Debug\net8.0\LinqApp.deps.json
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\bin\Debug\net8.0\LinqApp.runtimeconfig.json
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\bin\Debug\net8.0\LinqApp.dll
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\bin\Debug\net8.0\LinqApp.pdb
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.AssemblyInfoInputs.cache
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.AssemblyInfo.cs
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.csproj.CoreCompileInputs.cache
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.sourcelink.json
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.dll
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\refint\LinqApp.dll
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.pdb
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\LinqApp.genruntimeconfig.cache
+C:\C#\DOTNET\DOTNET\MVC\LinqDemoApp\LinqApp\obj\Debug\net8.0\ref\LinqApp.dll

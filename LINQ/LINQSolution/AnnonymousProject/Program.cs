@@ -104,4 +104,21 @@ foreach( int number in evenNumbers)
     Console.WriteLine(number); 
 }
 
+List<int> numlist = new List<int>() { 1,2,3,4,5,6,7,8,9,10};
+List<int> evennumber = new List<int>();
+foreach( int number in numlist)
+{
+    Console.WriteLine(number);
+}
+
+var evennum = from number in numlist where number % 2 == 0 select number;
+foreach( int number in evennum)
+{ 
+   evennumber.Add(number);
+}
+
+
+
+
+
 Console.ReadLine();

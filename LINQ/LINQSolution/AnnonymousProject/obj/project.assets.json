@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
+      "projectUniqueName": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
       "projectName": "AnnonymousProject",
-      "projectPath": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
+      "projectPath": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\AnnonymousProject.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\obj\\",
+      "outputPath": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LINQSolution\\AnnonymousProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
