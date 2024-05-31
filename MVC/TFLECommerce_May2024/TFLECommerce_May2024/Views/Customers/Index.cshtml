@@ -5,12 +5,11 @@
 }
 
 @{
-    List<Customer> customers = (List<Customer>)ViewData["allcustomers"];
+    List<Customer> customers = (List<Customer>)ViewData["allCustomers"];
     <ul>
         @foreach(Customer cus in customers)
         {
-            <li><a href="/customers/details">@cus.Name</a></li>
-
+            <li><a href="/customers/details/@cus.Id">@cus.Name</a></li>
         }
     </ul>
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TFLECommerce_May2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a19cc13f977ec3930a0830ff310ca6bc5b58d61e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63ce96a56e7279db0cc065ffc5113e2a234f06c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TFLECommerce_May2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TFLECommerce_May2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

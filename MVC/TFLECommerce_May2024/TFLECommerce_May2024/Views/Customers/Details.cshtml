@@ -4,4 +4,15 @@
 @{
 }
 
-<h2>Customer Details</h2>
+@{
+    int customerId = (int)ViewData["id"];
+    string customerName = (string)ViewData["name"];
+    string email = (string)ViewData["email"];
+    string phone = (string)ViewData["phone"];
+
+}
+
+<p> Id: @customerId</p>
+<p>Name: @customerName</p>
+<p> Email: @email</p>
+<p>Phone: @phone</p>
