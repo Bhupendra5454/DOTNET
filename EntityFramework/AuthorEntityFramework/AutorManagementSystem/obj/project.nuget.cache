@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zx4bbXLneTObEAs+YDuKiQGzuiGbzaXREVH3+7DpkMzZR6xg1UdbXHxJDcfR1z/LK/K9U4vFeZwy79aFEAMl0w==",
+  "dgSpecHash": "HBgV2iszWZXo406uFdqEqkzJA9tyHhTjvOcldS5Yee184cuyLLvEZpE3/thpKvev+cPVWIpoHr4eiT84ocF79Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
+  "projectFilePath": "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

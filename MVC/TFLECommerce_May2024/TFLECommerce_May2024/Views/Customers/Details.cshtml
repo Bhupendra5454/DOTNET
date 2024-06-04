@@ -3,16 +3,17 @@
 *@
 @{
 }
-
+@using TFLECommerce_May2024.Models;
 @{
-    int customerId = (int)ViewData["id"];
-    string customerName = (string)ViewData["name"];
-    string email = (string)ViewData["email"];
-    string phone = (string)ViewData["phone"];
+    //int customerId = (int)ViewData["id"];
+    //string customerName = (string)ViewData["name"];
+    //string email = (string)ViewData["email"];
+    //string phone = (string)ViewData["phone"];
+    Customer cst = (Customer)ViewData["customer"];
 
 }
 
-<p> Id: @customerId</p>
-<p>Name: @customerName</p>
-<p> Email: @email</p>
-<p>Phone: @phone</p>
+<p> Id: @cst.Id</p>
+<p>Name: @cst.Name</p>
+<p> Email: @cst.Email</p>
+<p>Phone: @cst.Phone</p>

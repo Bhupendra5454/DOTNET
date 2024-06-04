@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\DOTNET\\DOTNET\\MVC\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
+      "projectUniqueName": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
       "projectName": "LinqApp",
-      "projectPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
+      "projectPath": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\LinqDemoApp\\LinqApp\\obj\\",
+      "outputPath": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LinqDemoApp\\LinqApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

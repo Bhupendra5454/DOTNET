@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj": {}
+    "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj": {
+    "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
+        "projectUniqueName": "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
         "projectName": "AuthorManagementSystem",
-        "projectPath": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
+        "projectPath": "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\AuthorManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\obj\\",
+        "outputPath": "C:\\C#\\DOTNET\\DOTNET\\EntityFramework\\AuthorEntityFramework\\AutorManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

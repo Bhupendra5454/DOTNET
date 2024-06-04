@@ -16,11 +16,24 @@ customers.Add(new Customer { Id = 45, Name = "Shreedhar Patil", Email = "shreedh
 customers.Add(new Customer { Id = 97, Name = "Ajinkya Tambade", Email = "ajinkyat@gmail.com", Phone = "9175116619" });
 
 var cust = from cus in customers
-           where cus.Id == 54
+           where cus.Id == 11
            select cus;
 foreach(var cus in cust)
 {
     Console.WriteLine(cus.Name);
 }
+
+List<string> names = new List<string>() { "Bhupendra", "Akshay", "Aniket", "Anurag", "Sourabh" };
+IEnumerable<string> filterednames = names.Where(name => name.StartsWith('A'));
+foreach(var name in filterednames)
+{
+    Console.WriteLine(name);
+}
+
+
+IQueryable<Candidate> topMaleCandidates = candidats.Where(candidate => candidate.Gendre == "Male")
+                       .OrderByDesending(candidate => candidate.score)
+                       .Take(100);
+
 
 

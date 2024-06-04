@@ -19,10 +19,11 @@ namespace TFLECommerce_May2024.Controllers
             CustomerRepositorycs repo = new CustomerRepositorycs();
             List<Customer> customers = repo.GetAll();
             Customer theCustomer = customers.Find(x => x.Id == id);
-            ViewData["id"] = theCustomer.Id;
-            ViewData["name"] = theCustomer.Name;
-            ViewData["email"] = theCustomer.Email;
-            ViewData["phone"] = theCustomer.Phone;
+            //ViewData["id"] = theCustomer.Id;
+            //ViewData["name"] = theCustomer.Name;
+            //ViewData["email"] = theCustomer.Email;
+            //ViewData["phone"] = theCustomer.Phone;
+            ViewData["customer"] = theCustomer;
             
 
             return View();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrYufXJtKuzrmqf54/7k3EEOuGBIjnsHPSf9gZdA2GIssEo5EZe27m0qCDhpjTTZSPj0DH+XhHIsxQ3TVLU6pw==",
+  "dgSpecHash": "Bh6vhbVwYp7UHhaGiqesmrDPnsDeSvGufF2tOEhKz/ME7GRxuOHfeLf+cpWc205BoAzD864Prq5RdslAqyyxWg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
+  "projectFilePath": "C:\\C#\\DOTNET\\DOTNET\\LINQ\\LinqDemoApp\\LinqApp\\LinqApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
