@@ -70,6 +70,16 @@ namespace ProductManagementApp.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult DeleteProduct(int id)
+        {
+            using (ProductDBContext context=new ProductDBContext())
+            {
+                ProductRepository _repo = new ProductRepository(context);
+                bool status = _repo.Remove(id);
+            }
+            return RedirectToAction("Index");
+        }
+
 
 
         

@@ -42,6 +42,20 @@ namespace ProductManagementApp.Repository
             return status;
         }
 
+        public bool Remove(int id) 
+        {
+            bool status = false;
+            var prodToRemove = _context.Products.FirstOrDefault(prod => prod.ProductId == id);
+            if (prodToRemove != null) 
+            {
+                _context.Products.Remove(prodToRemove);
+                _context.SaveChanges();
+                status = true;
+            }
+            return status;
+
+        }
+
 
 
 
