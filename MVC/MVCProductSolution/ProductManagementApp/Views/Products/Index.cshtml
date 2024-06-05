@@ -1,0 +1,47 @@
+﻿@using ProductManagementApp.Models;
+
+<h1>Products</h1>
+
+<p><a href="/products/AddProduct">Insert New</a></p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Id</label>
+            </th>
+            <th>
+                <label>Name</label>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            List<Product> products = (List<Product>)ViewData["allProducts"];
+        }
+        @foreach (var item in products)
+        {
+            <tr>
+                <td>
+                    <p> @item.ProductId</p>
+                </td>
+                <td>
+                    <p> @item.ProductName</p>
+                </td>
+                <td>
+                    <a href="/products/details/@item.ProductId">Details</a>
+                </td>
+
+                <td>
+                    <a href="">Remove</a>
+                </td>
+
+                <td>
+                    <a href="/products/updateproduct/@item.ProductId">Update</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

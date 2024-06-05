@@ -1,0 +1,33 @@
+﻿<h2>Add New Product Here</h2>
+<form method="post" action="AddProduct">
+    <div>
+        <div class="mb-3">
+            <label for="productid" class="form-label">Product Id</label>
+            <input type="text" class="form-control" name="ProductId" id="ProductId">
+
+        </div>
+
+        <div class="mb-3">
+            <label for="productname" class="form-label">Product Name</label>
+            <input type="text" class="form-control" name="ProductName" id="PName" />
+
+        </div>
+        <div class="mb-3">
+            <label for="category" class="form-label">Category</label>
+            <input type="text" class="form-control" name="Category" id="Category" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="price" class="form-label">Price</label>
+            <input type="text" class="form-control" name="Price" id="Price" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="stockquantity" class="form-label">Stock Quantity</label>
+            <input type="text" class="form-control" name="StockQuantity" id="Stock" aria-describedby="emailHelp">
+        </div>
+
+        <div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            @* <input type="button" action="submit" value="Submit"/> *@
+        </div>
+    </div>
+</form>

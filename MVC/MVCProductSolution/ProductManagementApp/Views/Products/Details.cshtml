@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Product Details</h2>
+@{
+    Product prod = (Product)ViewData["productById"];
+    <p>Product Id :@prod.ProductId</p>
+    <p>Product Name :@prod.ProductName</p>
+    <p>Category :@prod.Category</p>
+    <p>Price : @prod.Price</p>
+    <p>Stock : @prod.StockQuantity</p>
+}

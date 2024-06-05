@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\dbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\dbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcproductsolution\\productmanagementapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE8CB0A-FECB-478E-AE8C-3FE5B4FB3761}|ProductManagementApp\\ProductManagementApp.csproj|solutionrelative:productmanagementapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:07:32.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "ProductManagementApp\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:24:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "ProductManagementApp\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:32:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ProductManagementApp\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T08:58:09.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManagementApp\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:48:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagementApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:47:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\DBContext\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementApp\\DBContext\\ProductDBContext.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\DBContext\\ProductDBContext.cs",
+              "RelativeToolTip": "ProductManagementApp\\DBContext\\ProductDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:40:12.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementApp\\Models\\Product.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCProductSolution\\ProductManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagementApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:36:24.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
