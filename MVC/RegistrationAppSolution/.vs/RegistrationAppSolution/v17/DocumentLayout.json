@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\models\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\registrationappsolution\\registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EA4B9A4-9715-4CF0-9D95-8F1ED8782D11}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Models\\RegisterForm.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Models\\RegisterForm.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Models\\RegisterForm.cs",
               "RelativeToolTip": "RegistrationFormApp\\Models\\RegisterForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T15:22:09.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RegisterFormsController.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "RelativeToolTip": "RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIBAwB0AAAAMAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T15:19:15.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Insert.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "RelativeToolTip": "RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAA/AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T15:13:32.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DbContextRegisterForm.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\RegistrationAppSolution\\RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "RelativeToolTip": "RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T15:11:57.537Z",
               "EditorCaption": ""

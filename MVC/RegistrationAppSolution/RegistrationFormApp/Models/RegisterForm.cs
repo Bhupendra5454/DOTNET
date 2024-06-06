@@ -8,6 +8,9 @@
         public string Gender { get; set; }
         // public string? Languages { get; set; }
         public string Languages { get; set; }
+        public string LangCheckbox1 { get; set; }
+        public string LangCheckbox2 { get; set; }
+        public string LangCheckbox3 { get; set; }
         public string City { get; set; }
     }
 }

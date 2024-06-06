@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RegistrationFormApp.Models;
 using RegistrationFormApp.Services;
+using static Org.BouncyCastle.Bcpg.Attr.ImageAttrib;
 
 namespace RegistrationFormApp.Controllers
 {
@@ -27,6 +28,7 @@ namespace RegistrationFormApp.Controllers
         [HttpPost]
         public IActionResult Insert(RegisterForm formdata)
         {
+            formdata.Languages = $"{formdata.LangCheckbox1},{formdata.LangCheckbox2},{formdata.LangCheckbox3}";
             bool status= _registerService.Add(formdata);
             return RedirectToAction("Index");
         }

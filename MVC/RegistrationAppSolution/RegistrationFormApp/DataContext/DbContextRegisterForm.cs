@@ -14,5 +14,17 @@ namespace RegistrationFormApp.DataContext
         {
             optionsBuilder.UseMySQL(conString);
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<RegisterForm>()
+                .Ignore(c => c.LangCheckbox1);
+
+            modelBuilder.Entity<RegisterForm>()
+                .Ignore(c => c.LangCheckbox2);
+
+            modelBuilder.Entity<RegisterForm>()
+               .Ignore(c => c.LangCheckbox3);
+        }
     }
 }
