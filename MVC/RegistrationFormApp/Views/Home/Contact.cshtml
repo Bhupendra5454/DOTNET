@@ -1,0 +1,10 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<string> cont = (List<string>)ViewData["allCities"];
+    foreach(string contact in cont)
+    {
+        <p>@contact</p>
+    }
+}

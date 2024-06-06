@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<string> services =(List<string>)TempData["tempServ"];
+    foreach(string service in services)
+    {
+        <p>@service</p>
+    }
+    List<string> cities = new List<string>();
+    cities.Add("pune");
+    cities.Add("mumbai");
+    cities.Add("delhi");
+
+    TempData["tempServ"] = cities;
+    
+}
+
+<a href="/home/contact">contact</a>

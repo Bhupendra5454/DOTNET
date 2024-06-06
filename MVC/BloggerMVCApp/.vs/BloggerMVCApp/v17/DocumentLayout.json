@@ -83,8 +83,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Posts\\Jodhpur.cshtml",
               "ViewState": "AQIAADUAAAAAAAAAAAA2wEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:59:28.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:59:28.506Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogs\\Jodhpur.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:55:20.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:55:20.852Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Posts\\Jaipur.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:49:21.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:49:21.728Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogs\\Jaipur.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:48:48.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:48:48.864Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "BloggerApp\\Controllers\\PostsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:47:44.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:47:44.999Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "BloggerApp\\Controllers\\BlogsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:46:59.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:46:59.878Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Jodhpur.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:39:32.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:39:32.365Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Posts.cshtml",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:12:10.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:12:10.471Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Blogs.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:08:54.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:08:54.724Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "BloggerApp\\Views\\Blogger\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:03:02.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:03:02.481Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "BloggerApp\\Controllers\\BloggerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:00:27.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:00:27.661Z"
             }
           ]
         }
