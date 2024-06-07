@@ -28,7 +28,7 @@ namespace RegistrationFormApp.Controllers
         [HttpPost]
         public IActionResult Insert(RegisterForm formdata)
         {
-            formdata.Languages = $"{formdata.LangCheckbox1},{formdata.LangCheckbox2},{formdata.LangCheckbox3}";
+            formdata.Languages = $"{formdata.LangCheckbox1} {formdata.LangCheckbox2} {formdata.LangCheckbox3}";
             bool status= _registerService.Add(formdata);
             return RedirectToAction("Index");
         }
