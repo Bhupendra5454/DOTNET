@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Organizations\\Index.cshtml",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Organizations\\Index.cshtml",
               "RelativeToolTip": "StateManagementApp\\Views\\Organizations\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-07T11:52:25.496Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -49,7 +50,7 @@
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Organizations\\Register.cshtml",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Organizations\\Register.cshtml",
               "RelativeToolTip": "StateManagementApp\\Views\\Organizations\\Register.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvxwAAAAYAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-07T11:07:51.899Z",
               "EditorCaption": ""
@@ -62,7 +63,7 @@
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\University.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Models\\University.cs",
               "RelativeToolTip": "StateManagementApp\\Models\\University.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T10:28:55.336Z",
               "EditorCaption": ""
@@ -75,7 +76,7 @@
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\OrganizationsController.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\OrganizationsController.cs",
               "RelativeToolTip": "StateManagementApp\\Controllers\\OrganizationsController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwCQAAABhAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T10:27:59.188Z",
               "EditorCaption": ""

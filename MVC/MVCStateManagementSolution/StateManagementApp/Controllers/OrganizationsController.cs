@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using StateManagementApp.Models;
+using System;
 
 namespace StateManagementApp.Controllers
 {
@@ -34,8 +35,9 @@ namespace StateManagementApp.Controllers
                     }
                 }
             }
-            Console.WriteLine("Id" + uni.Id + "name" + uni.Name + "Colleges" + uni.EnggColgList);
-            ViewData["universitylist"] = uni;
+            //Console.WriteLine("Id" + uni.Id + "name" + uni.Name + "Colleges" + uni.EnggColgList);
+            //TempData["universitylist"] = uni;
+            ViewBag.universitylist = uni;
             return RedirectToAction("Index");
         }
 

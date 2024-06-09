@@ -5,7 +5,7 @@
 }
 
 @{
-    University university = (University)ViewData["universitylist"];
+    University university = ViewBag.universitylist;
     <p>@university.Id</p>
     <p>@university.Name</p>
     <p>@university.EnggColgList</p>
