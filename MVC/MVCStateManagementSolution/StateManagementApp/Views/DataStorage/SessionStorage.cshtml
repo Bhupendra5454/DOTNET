@@ -1,0 +1,50 @@
+﻿<h1>Session Storage</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <label class="control-label">Enter Email </label>
+            <input class="control-control" id="email" name="email"></input>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Enter Password </label>
+            <input class="control-control" id="password" name="password"></input>
+        </div>
+        <div class="form-group">
+            <button onclick="saveDetails()">Save Details</button>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <label id="lblEmail">Your Email</label>
+        <br />
+        <label id="lblPassword">Your Password</label>
+        <div class="form-group">
+            <button onclick="getLocalStorageData()">SessionStorage</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    function saveDetails() {
+        alert("Details Saved");
+        var email = document.getElementById("email").value;
+        var password = document.getElementById("password").value;
+
+        sessionStorage.setItem("email", email);
+        sessionStorage.setItem("password", password);
+    }
+</script>
+
+<script>
+    function getLocalStorageData() {
+        var email = sessionStorage.getItem("email");
+        var password = sessionStorage.getItem("password");
+
+        var lblEmail = document.getElementById("lblEmail");
+        var lblPassword = document.getElementById("lblPassword");
+
+        lblEmail.innerHTML = email;
+        lblPassword.innerHTML = password;
+    }
+</script>

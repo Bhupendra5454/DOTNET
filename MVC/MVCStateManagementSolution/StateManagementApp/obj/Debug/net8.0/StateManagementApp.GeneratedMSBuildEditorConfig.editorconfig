@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\C#\DOTNET\DOTNET\MVC\MVCStateManagementSolution\StateManagementApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/DataStorage/LocalStorage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVN0b3JhZ2VcTG9jYWxTdG9yYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/DataStorage/SessionStorage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVN0b3JhZ2VcU2Vzc2lvblN0b3JhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
