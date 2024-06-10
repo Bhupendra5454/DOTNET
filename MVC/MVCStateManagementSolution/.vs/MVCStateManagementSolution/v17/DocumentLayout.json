@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\controllers\\datastoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\datastoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\datastorage\\sessionstorage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\datastorage\\sessionstorage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\datastorage\\localstorage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\datastorage\\localstorage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\controllers\\datastoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\datastoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:54:40.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "StateManagementApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "StateManagementApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:45:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "StateManagementApp\\Models\\Claim.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Models\\Claim.cs",
+              "RelativeToolTip": "StateManagementApp\\Models\\Claim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:35:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StateManagementApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:33:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SessionStorage.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
               "RelativeToolTip": "StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAgAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-10T10:17:44.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LocalStorage.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\DataStorage\\LocalStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\DataStorage\\LocalStorage.cshtml",
@@ -47,8 +115,7 @@
               "RelativeToolTip": "StateManagementApp\\Views\\DataStorage\\LocalStorage.cshtml",
               "ViewState": "AQIAABwAAAAAAAAAAAAswCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T09:37:52.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:37:52.165Z"
             },
             {
               "$type": "Document",
