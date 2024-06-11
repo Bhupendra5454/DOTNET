@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CookiesManagementApp/1.0.0": {
+        "runtime": {
+          "CookiesManagementApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookiesManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

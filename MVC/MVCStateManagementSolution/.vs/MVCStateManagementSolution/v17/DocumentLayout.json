@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\views\\home\\displaycookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\views\\home\\displaycookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\cookiesmanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1E16528-B2DE-4B0D-B122-031C14E928A2}|CookiesManagementApp\\CookiesManagementApp.csproj|solutionrelative:cookiesmanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2566F37-0370-46A6-93AC-C72050D95CF7}|StateManagementApp\\StateManagementApp.csproj|c:\\c#\\dotnet\\dotnet\\mvc\\mvcstatemanagementsolution\\statemanagementapp\\controllers\\datastoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +66,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadQueryString.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\ReadQueryString.cshtml",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Views\\Home\\ReadQueryString.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\ReadQueryString.cshtml",
+              "RelativeToolTip": "CookiesManagementApp\\Views\\Home\\ReadQueryString.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:45:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayCookie.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\DisplayCookie.cshtml",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Views\\Home\\DisplayCookie.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\DisplayCookie.cshtml",
+              "RelativeToolTip": "CookiesManagementApp\\Views\\Home\\DisplayCookie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:28:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCookies.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\CreateCookies.cshtml",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Views\\Home\\CreateCookies.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\CreateCookies.cshtml",
+              "RelativeToolTip": "CookiesManagementApp\\Views\\Home\\CreateCookies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:17:18.518Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookiesManagementApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAywDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:04:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CookiesManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:06:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CookiesManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\CookiesManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CookiesManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T06:05:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StateManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StateManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswB8AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T11:35:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "StateManagementApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-10T10:54:40.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Auth\\Login.cshtml",
@@ -63,12 +185,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\Auth\\Login.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:45:38.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:45:38.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\Claim.cs",
@@ -76,25 +197,24 @@
               "RelativeToolTip": "StateManagementApp\\Models\\Claim.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T10:35:03.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:35:03.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\AuthController.cs",
               "RelativeToolTip": "StateManagementApp\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAywBsAAAA2AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T10:33:59.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "SessionStorage.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
@@ -102,12 +222,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\DataStorage\\SessionStorage.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:17:44.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:17:44.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "LocalStorage.cshtml",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Views\\DataStorage\\LocalStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\DataStorage\\LocalStorage.cshtml",
@@ -119,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "DataStorageController.cs",
               "DocumentMoniker": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\Controllers\\DataStorageController.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\DataStorageController.cs",
@@ -127,8 +246,7 @@
               "RelativeToolTip": "StateManagementApp\\Controllers\\DataStorageController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:36:27.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:36:27.566Z"
             }
           ]
         }
