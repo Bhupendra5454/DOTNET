@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateManagementApp", "StateManagementApp\StateManagementApp.csproj", "{D2566F37-0370-46A6-93AC-C72050D95CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesManagementApp", "CookiesManagementApp\CookiesManagementApp.csproj", "{F1E16528-B2DE-4B0D-B122-031C14E928A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookiesManagementApp", "CookiesManagementApp\CookiesManagementApp.csproj", "{F1E16528-B2DE-4B0D-B122-031C14E928A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SessionManagement", "SessionMgmt\SessionManagement.csproj", "{2EB209DF-1228-4631-B4A5-BEC87659F1C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F1E16528-B2DE-4B0D-B122-031C14E928A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E16528-B2DE-4B0D-B122-031C14E928A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E16528-B2DE-4B0D-B122-031C14E928A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB209DF-1228-4631-B4A5-BEC87659F1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB209DF-1228-4631-B4A5-BEC87659F1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB209DF-1228-4631-B4A5-BEC87659F1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB209DF-1228-4631-B4A5-BEC87659F1C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
