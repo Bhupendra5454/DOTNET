@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\wwwroot\\images\\Pie-Chart.png",
+      "PackagePath": "staticwebassets\\images\\Pie-Chart.png"
+    },
+    {
+      "Id": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\wwwroot\\images\\bar-chart.png",
+      "PackagePath": "staticwebassets\\images\\bar-chart.png"
+    },
+    {
+      "Id": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\wwwroot\\images\\line-chart.jpeg",
+      "PackagePath": "staticwebassets\\images\\line-chart.jpeg"
+    },
+    {
       "Id": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
