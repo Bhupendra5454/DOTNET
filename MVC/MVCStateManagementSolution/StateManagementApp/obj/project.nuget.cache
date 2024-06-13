@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+mCfuhWfhmrfHYi0ug2Sf6MgWRrb5QbVa/YLG/etUVyRkvjADybg4wVsaFJH5R3vvJHJWDieMVXvU+XoC8vSWA==",
+  "dgSpecHash": "m6a6b5MqFJ86mbTf30NXRCVZkXbCrbNl/7n0lqLgAn9STyFbHvGSJk3GlXBwONrFPSoeLzDpeGifqv6rY/0VJw==",
   "success": true,
   "projectFilePath": "C:\\C#\\DOTNET\\DOTNET\\MVC\\MVCStateManagementSolution\\StateManagementApp\\StateManagementApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CookiesManagementApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e9d6b8c6c382e2cf7cd64586de623cdfc623d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d3696ed4bee0415006318e73e23a517c118458")]
 [assembly: System.Reflection.AssemblyProductAttribute("CookiesManagementApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CookiesManagementApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

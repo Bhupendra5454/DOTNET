@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/Dashboard/ArrayBarChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFycmF5QmFyQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/Dashboard/BarChart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEJhckNoYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/DataStorage/SessionStorage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVN0b3JhZ2VcU2Vzc2lvblN0b3JhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/DynamicCharts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0NoYXJ0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/C\#/DOTNET/DOTNET/MVC/MVCStateManagementSolution/StateManagementApp/Views/Home/Index.cshtml]
