@@ -1,0 +1,67 @@
+﻿@{@{
+    ViewData["Title"] = "Home Page";
+    }
+
+                                    <div class="text-center">
+                                       
+                                    </div>
+
+                                    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+                                    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+                                    <script type="text/javascript">
+                                        var dataUrl = "/home/getdata";
+                                        $.ajax({
+                                            url : dataUrl,
+                                            type : 'Get',
+                                            contentType = 'application/json',
+                                            success: function (apiData) {
+                                                       google.charts.load.('current', { package: ['corecharts'] });
+                                                       google.charts.setOnLoadCallback(drawChart);
+                                            function drawChart() {
+                                                       var data = new google.visualization.DataTable();
+                                                       data.addColumn('string', 'Placement Year');
+                                                       data.addColumn('number', 'Placement %');
+
+                                                apiData.forEach(item => {
+                                                    var year = item.year;
+                                                    var placement = item.placement;
+                                                    data.addRows([[year, placement]]);
+                                                });
+                    var options = {
+                        title: 'Company Valuation',
+                        width: 800,
+                        height: 400,
+                        hAxis: {
+                            title: 'Company', // Label for the horizontal axis
+                            showTextEvery: 1 // Show each category label
+                        },
+                        vAxis: {
+                            title: 'Budget', // Label for the vertical axis,
+                            showTextEvery: 1
+                        },
+
+                        annotations: {
+                            textStyle: {
+                                fontSize: 25,
+                                color: '#000000', // Label color
+                            }
+                        }
+
+                    };
+
+                    // Instantiate and draw the chart
+                    var chart = new google.visualization.ColumnChart(document.getElementById('companychart'));
+                    chart.draw(data, options);
+                }
+            },
+
+            error: function (xhr, status, error) {
+                console.error(xhr.responseText);
+            }
+        });
+</script>
+    <div class="row">
+        <div>
+            <div class="col-md-8" id="companychart"></div>
+        </div>
+    </div>
