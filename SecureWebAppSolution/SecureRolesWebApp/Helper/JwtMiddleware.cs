@@ -42,7 +42,9 @@ namespace SecureRolesWebApp.Helpers
 
                 var jwtToken = (JwtSecurityToken)validatedToken;
                 var userId = int.Parse(jwtToken.Claims.First(x => x.Type == "id").Value);
+                var userRole = jwtToken.Claims.First(x => x.Type == "role").Value;
                 context.Items["User"] = userService.GetById(userId);
+                context.Items["Role"] = userRole;
             }
             catch
             {

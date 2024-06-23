@@ -2,6 +2,7 @@
 using SecureRolesWebApp.Models;
 using SecureRolesWebApp.Services;
 using SecureRolesWebApp.Filters;
+using SecureRolesWebApp.Entities;
 
 namespace SecureRolesWebApp.Controllers
 {
@@ -28,7 +29,7 @@ namespace SecureRolesWebApp.Controllers
             return Ok(response);
         }
 
-        [Authorize]
+        [Authorize(Role = Roles.Admin)]
         [HttpGet]
         public IActionResult GetAll()
         {

@@ -16,13 +16,13 @@ namespace SecureRolesWebApp.Services
         private List<User> _users = new List<User>
         {
             new User { Id = 1, FirstName = "Bhupendra", LastName = "Walhekar",
-                        Username = "bhupendra", Password = "pass123" },
+                        Username = "bhupendra", Password = "pass123" , Role = Roles.Admin},
              new User { Id = 2, FirstName = "Ajinkya", LastName = "Tambade",
-                        Username = "ajinkya", Password = "pass123" },
+                        Username = "ajinkya", Password = "pass123" , Role = Roles.Manager },
              new User { Id = 3, FirstName = "Ritesh", LastName = "Chopra",
-                        Username = "ritesh", Password = "pass123" },
+                        Username = "ritesh", Password = "pass123" , Role = Roles.User },
              new User { Id = 4, FirstName = "Shreedhar", LastName = "Patil",
-                        Username = "shreedhar", Password = "pass123" }
+                        Username = "shreedhar", Password = "pass123" , Role = Roles.Admin }
         };
 
         private readonly AppSettings _appSettings;
@@ -57,7 +57,8 @@ namespace SecureRolesWebApp.Services
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Subject = new ClaimsIdentity(new[] { new Claim("id", user.Id.ToString()) }),
+                Subject = new ClaimsIdentity(new[] { new Claim("id", user.Id.ToString()),
+                                                     new Claim("role", user.Role)}),
                 Expires = DateTime.UtcNow.AddDays(1),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key),
                                                            SecurityAlgorithms.HmacSha256Signature)
