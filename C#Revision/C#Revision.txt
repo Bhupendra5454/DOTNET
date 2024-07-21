@@ -1,0 +1,29 @@
+1)Readonly - readonly can be initialized either at declaration or within a constructor,readonly fields are useful when you have data that should not change after initialization.
+  const - const must be initialized at declaration,value cannot be changed once initialized eg(PI)
+
+2)this keyword - this keyword is used to refer to the current instance of the class,
+                 it is particularly useful in scenarios like constructor chaining, accessing instance members, and extension methods.
+
+3)Constructor chaining - Constructor chaining in C# refers to the technique where one constructor can call another constructor within the same class.
+                         This allows constructors to reuse initialization logic and avoid code duplication, promoting cleaner and more maintainable code.
+
+4)Extension Method - Extension method can be implemented by Passing object as (this Object obj1) as Paramater to method of differnt class(Class 2)
+                     that you want to use in original calss(Class 1).
+
+5)Object initializers - Object initializers let you assign values to any accessible fields or properties of an object,
+                        at creation time without having to invoke a constructor followed by lines of assignment statements.
+
+6)Indexer - Indexers are particularly useful in scenarios where you want to treat instances of a class like arrays or collections. 
+
+7)Singleton - (Singleton is an design pattern that ensurs tha only single instance is created for a class)
+              Only one object is created and shared with another functions throughout application execution.
+ 
+8)Static veriable - A variable shared across all instances of a class, initialized once and accessible using the class name rather than instances. 
+
+9)Instance veriable -  Each instance of a class has its own set of variables, initialized when the object is created and accessed using the instance of the class.
+
+10)Ref , out - ref passes parameters by reference, allowing modifications to affect the original variable; out designates output parameters,
+               useful for returning multiple values from a method.
+
+11)Out of scope,in scope -  Refers to whether a variable or entity is accessible within a specific block of code (in scope) or not (out of scope),
+                            based on its declaration and the current execution context.
