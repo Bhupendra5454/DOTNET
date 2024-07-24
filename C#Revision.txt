@@ -1,0 +1,137 @@
+=================================================================================================================================================================================
+19-July-2024
+------------
+1)Readonly - readonly can be initialized either at declaration or within a constructor,readonly fields are useful when you have data that should not change after initialization.
+  const - const must be initialized at declaration,value cannot be changed once initialized eg(PI)
+
+2)this keyword - this keyword is used to refer to the current instance of the class,
+                 it is particularly useful in scenarios like constructor chaining, accessing instance members, and extension methods.
+
+3)Constructor chaining - Constructor chaining in C# refers to the technique where one constructor can call another constructor within the same class.
+                         This allows constructors to reuse initialization logic and avoid code duplication, promoting cleaner and more maintainable code.
+
+4)Extension Method - Extension method can be implemented by Passing object as (this Object obj1) as Paramater to method of differnt class(Class 2)
+                     that you want to use in original calss(Class 1).
+
+5)Object initializers - Object initializers let you assign values to any accessible fields or properties of an object,
+                        at creation time without having to invoke a constructor followed by lines of assignment statements.
+
+6)Indexer - Indexers are particularly useful in scenarios where you want to treat instances of a class like arrays or collections. 
+
+7)Singleton - (Singleton is an design pattern that ensurs tha only single instance is created for a class)
+              Only one object is created and shared with another functions throughout application execution.
+ 
+8)Static veriable - A variable shared across all instances of a class, initialized once and accessible using the class name rather than instances. 
+
+9)Instance veriable -  Each instance of a class has its own set of variables, initialized when the object is created and accessed using the instance of the class.
+
+10)Ref , out - ref passes parameters by reference, allowing modifications to affect the original variable; out designates output parameters,
+               useful for returning multiple values from a method.
+
+11)Out of scope,in scope -  Refers to whether a variable or entity is accessible within a specific block of code (in scope) or not (out of scope),
+                            based on its declaration and the current execution context.
+=====================================================================================================================================================================================
+22-July-2024
+-------------
+12)Inheritance - Inheritance in object-oriented programming allows one class (subclass/derived class) to inherit behaviors and properties from another class (superclass/base class),
+                 promoting code reuse and hierarchical organization of classes.
+
+13)Polymorphism - Polymorphism enables objects of different classes to be treated as objects of a common superclass.
+                  It allows methods to be defined in multiple forms, facilitating flexibility and the ability to implement methods specific to each class.
+ 
+14)Shadowing - Shadowing in C# involves a subclass hiding a superclass member with the same name using the new keyword,
+               contrary to polymorphism where method overriding with override ensures subclass-specific implementations are invoked through superclass references.
+ 
+15)Concrete class - A concrete class is a regular class that can be instantiated to create objects.
+                    It provides complete implementation for all its methods and does not contain any abstract methods.
+
+16)Abstract class - An abstract class cannot be instantiated on its own; it serves as a blueprint for other classes to inherit from.
+                    It may contain abstract methods (methods without a body) that subclasses must implement.
+
+17)Interface - An interface in C# defines a contract of methods, properties, events, or indexers that implementing classes must provide.
+               It enables multiple inheritance and promotes loose coupling by allowing unrelated classes to implement the same set of behaviors.
+
+18)What is design pattern - Design patterns in C# are standardized solutions to common problems in software design.
+                            They represent best practices and reusable templates that help developers solve recurring design challenges efficiently.
+
+19)Why Design pattern - Standardized Solutions, Common Vocabulary, Code Reusability, Scalability and Maintainability, Performance Optimization
+
+20)Advantages of design pattern - Proven Solutions, Saves Time, Improves Code Quality, Encourages Best Practices.
+=====================================================================================================================================================================================
+23-July-2024
+------------
+(Design PAttern)
+21)Singleton -  Ensures a class has only one instance and provides a global point of access to it.
+
+22)Factory - A creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+
+23)Observer - Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+24)IClonable - An interface that enables objects to be cloned. It allows creating a copy of an existing object without explicitly using its constructor.
+
+25)IComparable - This interface is typically implemented by a class when you want instances of that class to be able to compare themselves with other instances of the same class.
+                 It provides a natural ordering for objects. The CompareTo method, which is part of IComparable, returns an integer indicating whether the current object is less than,
+                 equal to, or greater than the other object.
+
+26)IComparer - This interface is used to define a separate class for comparing instances of a particular type.
+               It allows you to create custom comparison logic without modifying the classes being compared.
+               The IComparer interface defines a Compare method that compares two objects of the same type and returns an integer indicating their relative order. 
+
+27)JaggedArray -  A jagged array (also known as an array of arrays) is an array whose elements are arrays themselves.
+                  Each element (subarray) can have different lengths.
+========================================================================================================================================================================================
+24-July-2024
+------------
+
+28)Assembly - A logical unit that contains compiled code (IL code), metadata, and resources needed for an application to execute.
+              It is the smallest unit of deployment in .NET.
+
+29)Assembly loader - A component responsible for loading assemblies into the application domain at runtime, resolving dependencies, and ensuring they are available for execution.
+
+30)Code verifier - Part of the .NET runtime that checks the IL (Intermediate Language) code for type safety and other security concerns before it is compiled into native machine code.
+
+31)Just-In-Time (JIT) compiler - Converts IL code into native machine code that the processor can execute directly, improving performance by compiling code on demand at runtime.
+
+32)Garbage collector - Automatically manages memory by reclaiming memory occupied by objects that are no longer in use, freeing developers from manually deallocating memory and reducing memory leaks.
+
+33)Process - An instance of a program that is being executed by the operating system, which includes its own memory space, resources, and execution environment.
+
+34)Primary Thread - Also known as the main thread, it is the initial thread created when a process starts and where the program's entry point begins execution.
+
+35)Worker Thread - A thread created by the application explicitly to perform background tasks concurrently with the primary thread, often used to improve responsiveness and efficiency.
+
+36)Daemon thread - A background thread that runs continuously in the background without user intervention, typically used for tasks such as garbage collection or monitoring.
+
+37)CLR (Common Language Runtime) - The core component of the .NET Framework and .NET Core that manages memory, thread execution,
+                                   code execution, security, and other runtime services required by managed code.
+
+38)Assembly Consists of - Various components that collectively define an assembly's structure and content, including the PE Header, CLR Header, Manifest, Metadata, IL code, and Resources.
+
+39)PE Header - Stands for Portable Executable Header, which is a standard file header for executable files and DLLs on Windows operating systems,
+               providing information about the structure and properties of the file.
+
+40)CLR Header - Contains information specific to the Common Language Runtime (CLR),
+                such as the version of the CLR required to execute the assembly and any special permissions needed.
+
+41)Manifest - A crucial part of an assembly that includes metadata about the assembly itself, such as its version, culture,
+              strong name (if signed), and a list of all files within the assembly, including modules and resources.
+
+42)Metadata - Contains descriptive information about the types, members, and references within the assembly,
+              enabling runtime environments and tools to understand and interact with the code without executing it.
+
+43)IL Code - Stands for Intermediate Language Code, which is the platform-independent, high-level language that .NET compilers generate from source code.
+             It is executed by the CLR's JIT compiler to produce native machine code.
+
+44)Resources - Optional files embedded within the assembly that can include images, icons, localized strings, configuration files,
+               and other data used by the application at runtime.
+
+45)Reflection - A feature in .NET that allows code to inspect and manipulate the structure, types, and members of assemblies at runtime.
+               It enables dynamic loading of assemblies, invoking methods, and accessing properties without knowing them at compile time.
+
+46)Decompilation - The process of converting executable (compiled) code, such as IL (Intermediate Language) in .NET or machine code in other languages, back into human-readable source code.
+                   It is often used for reverse engineering or understanding how a program works without access to the original source code.
+
+47)ILDASM - ILDASM (IL Disassembler) is a utility provided by the .NET Framework SDK
+           (Software Development Kit) and Visual Studio that allows developers to view the IL (Intermediate Language) code of .NET assemblies.
+
+48)
