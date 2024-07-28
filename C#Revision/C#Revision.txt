@@ -177,4 +177,10 @@ Garbage Collection -
                                      This is useful when an object has already been cleaned up manually through its Dispose method,
                                      so there's no need for the finalizer to run. This helps improve performance by avoiding unnecessary finalization.
 
-60)
+----------------
+
+60)Serialization - Serialization is the process of converting an object into a format (such as JSON, XML, or a binary stream) that can be easily stored or transmitted.
+                   This allows objects to be saved to files, sent over a network, or persisted between application sessions.
+
+61)Deserialization - Deserialization is the reverse process of serialization. It converts the serialized format (such as JSON, XML, or a binary stream) back into an object.
+                     This allows the application to reconstruct and use the original object from its stored or transmitted data. 

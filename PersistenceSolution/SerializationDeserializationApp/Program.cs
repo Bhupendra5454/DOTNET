@@ -4,7 +4,7 @@ using HR.Utility.Implementations;
 using HR.Entities;
 
 Console.WriteLine("JSON Serialization");
-string fileName = @"D:/Ravi/people.json";
+string fileName = @"C:\C#\DOTNET\DOTNET\PersistenceSolution\People.json";
 IManager mgr = new JSONManager();
 bool status = mgr.SerializeData(fileName);
 List<Person> reStoredPeople=mgr.DeSerializeData(fileName);
@@ -15,7 +15,7 @@ foreach(Person person in reStoredPeople)
 
 
 Console.WriteLine("CSV Serialization");
-string csvFileName = @"D:/Ravi/people.csv";
+string csvFileName = @"C:\C#\DOTNET\DOTNET\PersistenceSolution\People.csv";
 IManager cSVManager = new CSVManager();
 bool csvStatus = cSVManager.SerializeData(csvFileName);
 List<Person> reStoredCsvPeople = cSVManager.DeSerializeData(csvFileName);
@@ -27,7 +27,7 @@ foreach (Person person in reStoredCsvPeople)
 
 Console.WriteLine("XML Serialization");
 IManager xmlManager = new XMLManager();
-string xmlFileName = @"D:/Ravi/people.xml";
+string xmlFileName = @"C:\C#\DOTNET\DOTNET\PersistenceSolution\People.xml";
 bool xmlStatus = xmlManager.SerializeData(xmlFileName);
 List<Person> reStoredXmlPeople = xmlManager.DeSerializeData(xmlFileName);
 foreach (Person person in reStoredXmlPeople)
