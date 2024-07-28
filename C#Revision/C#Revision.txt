@@ -133,5 +133,48 @@
 
 47)ILDASM - ILDASM (IL Disassembler) is a utility provided by the .NET Framework SDK
            (Software Development Kit) and Visual Studio that allows developers to view the IL (Intermediate Language) code of .NET assemblies.
+==============================================================================================================================================================================
+28-July-2024
+------------
 
-48)
+Garbage Collection -
+------------------
+48)Managed Heap - When you create a new object in C#, it is allocated on the managed heap. The runtime takes care of allocating space for this object and keeping track of it.
+
+49)Generational Garbage Collection : It divides objects into three generations based on their age, optimizing performance by frequently collecting younger objects and less frequently collecting older ones.
+                                     This approach minimizes the overhead of garbage collection by focusing on short-lived objects.
+
+50)Finalization - Finalization in C# is the process by which an object can perform cleanup operations before it is reclaimed by the garbage collector.
+                  It is implemented using a Finalize method, which is automatically called by the garbage collector before the object’s memory is deallocated.
+                  This allows for the release of unmanaged resources, although it's generally recommended to use the IDisposable interface for more predictable resource management.
+
+51)Finalize Method - Objects in .NET Core can define a special method called Finalize.
+                     This method is automatically called by the Garbage Collector before an object is garbage collected.
+                     The Finalize method is typically used to perform cleanup tasks, such as releasing unmanaged resources or closing handles.
+
+52)Finalization Queue - When an object with a finalizer is created, a reference to it is placed in a special queue called the finalization queue.
+                        The Garbage Collector maintains this queue to keep track of objects that need finalization.
+
+53)Deterministic Finalization - Deterministic finalization uses the IDisposable interface to allow you to manually release resources with the Dispose method.
+                                This way, resources are cleaned up when you decide, not just when the garbage collector runs.
+
+54)IDisposable - IDisposable is an interface in C# that provides a mechanism for releasing unmanaged resources, such as file handles or database connections, in a deterministic manner.
+                 Classes that implement IDisposable should override the Dispose method to free these resources explicitly.
+
+55)Dispose Method - The Dispose() method is called explicitly by the developer when they no longer need the object or when it goes out of scope.
+
+56)Indeterministic - In indeterministic finalization, the finalization process is handled automatically by the garbage collector, which runs at non-deterministic times.
+                     Objects that require finalization but do not implement IDisposable rely on the garbage collector's finalization queue to perform cleanup.
+
+57)GC.Collect() - Triggers an immediate garbage collection of all generations.
+                  It forces the garbage collector to reclaim memory by removing objects that are no longer in use. Use this method cautiously,
+                  as it can impact performance and is usually unnecessary in most scenarios where automatic garbage collection suffices.
+
+58)GC.WaitForPendingFinalizers() - Blocks the current thread until the garbage collector has processed all finalizers for objects that have been marked for finalization.
+                                   This ensures that finalization (cleanup of unmanaged resources) is completed before proceeding with further operations.
+
+59)GC.SuppressFinalize(object obj) - Prevents the finalizer of the specified object from being called.
+                                     This is useful when an object has already been cleaned up manually through its Dispose method,
+                                     so there's no need for the finalizer to run. This helps improve performance by avoiding unnecessary finalization.
+
+60)
